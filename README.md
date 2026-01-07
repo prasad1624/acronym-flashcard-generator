@@ -1,5 +1,5 @@
 
-#Acronym Flashcard Generator
+# Acronym Flashcard Generator
 
 A Python Tkinter–based flashcard application designed to help learners efficiently master technical acronyms using active recall instead of passive memorization.
 
@@ -8,7 +8,7 @@ memorizing a large number of acronyms quickly and effectively, especially for te
 
 ---
 
-#Overview
+# Overview
 
 The Acronym Flashcard Generator provides a distraction-free, fullscreen environment where users can practice acronyms interactively.
 Meanings are revealed manually, encouraging active recall, which significantly improves long-term retention.
@@ -17,7 +17,7 @@ The application is fully customizable through a simple text file, allowing users
 
 ---
 
-##Features
+## Features
 
 -	Fullscreen, distraction-free user interface
 -	Randomized flashcard order for every session
@@ -53,7 +53,7 @@ This screen appears after all flashcards are completed and provides an option to
 
 ---
 
-##Keyboard Controls
+## Keyboard Controls
 
 | Key | Action |
 |-----|--------|
@@ -67,7 +67,7 @@ You can also click on the acronym to reveal its meaning.
 
 ---
 
-##Project Structure
+## Project Structure
 
 acronym-flashcard-generator/
 │
@@ -79,14 +79,14 @@ acronym-flashcard-generator/
 └── LICENSE
 
 
-##acronyms.txt Format
+## acronyms.txt Format
 
 Each line in acronyms.txt must follow this structure:
 
 ACRONYM Meaning of the acronym
 
 
-##Example
+## Example
 
 CIA Central Intelligence Agency
 DNS Domain Name System
@@ -94,7 +94,7 @@ MITM Man In The Middle
 VPN Virtual Private Network
  	
 
-##Guidelines
+## Guidelines
 
 -	Acronym comes first
 -	Followed by a space
@@ -117,19 +117,19 @@ python --version
 
 ---
 
-###Step 2: Clone the Repository
+### Step 2: Clone the Repository
 
 git clone https://github.com/your-username/acronym-flashcard-generator.git
 
 ---
 
-###Step 3: Navigate to the Project Directory
+### Step 3: Navigate to the Project Directory
 
 cd acronym-flashcard-generator
 
 ---
 
-###Step 4: Run the Application
+### Step 4: Run the Application
 
 python main.py
 
@@ -137,7 +137,7 @@ The application will launch in fullscreen mode.
 
 ---
 
-##Use Cases
+## Use Cases
 
 -	CompTIA Security+ exam preparation
 -	Cybersecurity fundamentals
@@ -147,23 +147,24 @@ The application will launch in fullscreen mode.
 
 ---
 
-##Built With
+## Built With
 
 -	Python
 -	Tkinter (GUI framework)
 
 ---
 
-##License
+## License
 
 This project is licensed under the MIT License.
 You are free to use, modify, and distribute this project with proper attribution.
 
 ---
 
-##Contribution
+## Contribution
 
 This is a learning-focused project.
 Feel free to fork the repository and customize it to suit your own study or training requirements.
+
 
 
