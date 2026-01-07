@@ -69,6 +69,7 @@ You can also click on the acronym to reveal its meaning.
 
 ## Project Structure
 
+```
 acronym-flashcard-generator/
 │
 ├── main.py
@@ -77,8 +78,7 @@ acronym-flashcard-generator/
 ├── requirements.txt
 ├── .gitignore
 └── LICENSE
-
-
+```
 ## acronyms.txt Format
 
 Each line in acronyms.txt must follow this structure:
@@ -165,6 +165,7 @@ You are free to use, modify, and distribute this project with proper attribution
 
 This is a learning-focused project.
 Feel free to fork the repository and customize it to suit your own study or training requirements.
+
 
 
 
