@@ -88,11 +88,12 @@ ACRONYM Meaning of the acronym
 
 ## Example
 
+```
 CIA Central Intelligence Agency
 DNS Domain Name System
 MITM Man In The Middle
 VPN Virtual Private Network
- 	
+```
 
 ## Guidelines
 
@@ -105,9 +106,9 @@ No code changes are required when updating this file.
 
 ---
 
-##How to Run the Application
+## How to Run the Application
 
-###Step 1: Install Python
+### Step 1: Install Python
 
 Ensure Python 3.8 or higher is installed.
 
@@ -165,6 +166,7 @@ You are free to use, modify, and distribute this project with proper attribution
 
 This is a learning-focused project.
 Feel free to fork the repository and customize it to suit your own study or training requirements.
+
 
 
 
